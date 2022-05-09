@@ -1,3 +1,5 @@
+#Table maker
+
 num = int(input("enter your number:\n"))
 
 i = 1
